@@ -17,11 +17,19 @@ See [here!](https://ieeexplore.ieee.org/document/9316882)
 **BibTeX format:**
 
 @ARTICLE{Aghaeipoor2021,
+
   author={F. {Aghaeipoor} and M. M. {Javidi} and A. {Fernandez}},
+  
   journal={IEEE Transactions on Fuzzy Systems}, 
+  
   title={IFC-BD: An Interpretable Fuzzy Classifier for Boosting Explainable Artificial Intelligence in Big Data}, 
+  
   year={2021},
+  
   volume={},
+  
   number={},
+  
   pages={1-1},
+  
   doi={10.1109/TFUZZ.2021.3049911}}
