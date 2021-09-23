@@ -11,7 +11,7 @@ The parameters are (See Core.Parameters):
 susy susy ${fold} data 3 winning-rule true true -1  false false 0.7
 
 
-**Please cite as: ** F. Aghaeipoor, M. M. Javidi and A. Fernandez, "IFC-BD: An Interpretable Fuzzy Classifier for Boosting Explainable Artificial Intelligence in Big Data," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2021.3049911.
+** Please cite as: ** F. Aghaeipoor, M. M. Javidi and A. Fernandez, "IFC-BD: An Interpretable Fuzzy Classifier for Boosting Explainable Artificial Intelligence in Big Data," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2021.3049911.
 See [here!](https://ieeexplore.ieee.org/document/9316882)
 
 **BibTeX format:**
